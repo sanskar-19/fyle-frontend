@@ -35,9 +35,9 @@ const GitUser = ({
   return (
     <>
       <div className="form-wrapper">
-        <div className="logo">
-          <img src="/fylelogo.png" alt="" />
-        </div>
+        <p style={{ textAlign: "center", marginBottom: "1rem" }}>
+          Please Enter a valid github Username!
+        </p>
         <form onSubmit={submitUsername}>
           <div className="input-username">
             <input
