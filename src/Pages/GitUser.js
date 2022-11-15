@@ -36,7 +36,7 @@ const GitUser = ({
     <>
       <div className="form-wrapper">
         <div className="logo">
-          <img src="/fylelogo.svg" alt="" />
+          <img src="/fylelogo.png" alt="" />
         </div>
         <form onSubmit={submitUsername}>
           <div className="input-username">
