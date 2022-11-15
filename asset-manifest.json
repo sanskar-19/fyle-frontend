@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fyle-frontend/static/css/main.8ebe1324.css",
+    "main.js": "/fyle-frontend/static/js/main.f6ecb986.js",
+    "static/js/787.0a5311c5.chunk.js": "/fyle-frontend/static/js/787.0a5311c5.chunk.js",
+    "index.html": "/fyle-frontend/index.html",
+    "static/media/Loader.svg": "/fyle-frontend/static/media/Loader.c3b7467e711975e766843994e4cd208f.svg",
+    "main.8ebe1324.css.map": "/fyle-frontend/static/css/main.8ebe1324.css.map",
+    "main.f6ecb986.js.map": "/fyle-frontend/static/js/main.f6ecb986.js.map",
+    "787.0a5311c5.chunk.js.map": "/fyle-frontend/static/js/787.0a5311c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ebe1324.css",
+    "static/js/main.f6ecb986.js"
+  ]
+}
